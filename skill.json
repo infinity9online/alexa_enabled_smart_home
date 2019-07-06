@@ -1,0 +1,130 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "my smart home",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "kitchenenglishon",
+                    "slots": [],
+                    "samples": [
+                        "would you please turn on the light in kitchen",
+                        "will you please turn on the light in kitchen",
+                        "please turn on the light in kitchen",
+                        "turn on the light in kitchen"
+                    ]
+                },
+                {
+                    "name": "kitchenenglishoff",
+                    "slots": [],
+                    "samples": [
+                        "please turn off the light in kitchen",
+                        "turn off the light in kitchen"
+                    ]
+                },
+                {
+                    "name": "kitchenmarathion",
+                    "slots": [],
+                    "samples": [
+                        "kitchen madhla light laav",
+                        "kitchen madhla light suru kar",
+                        "kitchen madhla light chalu kar"
+                    ]
+                },
+                {
+                    "name": "kitchenmarathioff",
+                    "slots": [],
+                    "samples": [
+                        "kitchen madhla light banda kar"
+                    ]
+                },
+                {
+                    "name": "kitchenhindion",
+                    "slots": [],
+                    "samples": [
+                        "kitchen ka light on karo",
+                        "kitchen ka light chalu karo"
+                    ]
+                },
+                {
+                    "name": "kitchenhindioff",
+                    "slots": [],
+                    "samples": [
+                        "kitchen ka light band karo",
+                        "kitchen ka light off karo"
+                    ]
+                },
+                {
+                    "name": "hallenglishon",
+                    "slots": [],
+                    "samples": [
+                        "would you please turn on the light in hall",
+                        "will you please turn on the light in hall",
+                        "please turn on the light in hall",
+                        "turn on the light in hall"
+                    ]
+                },
+                {
+                    "name": "hallenglishoff",
+                    "slots": [],
+                    "samples": [
+                        "please turn off the light in hall",
+                        "turn off the light in hall"
+                    ]
+                },
+                {
+                    "name": "hallmarathion",
+                    "slots": [],
+                    "samples": [
+                        "hall madhla light laav",
+                        "hall madhla light suru kar",
+                        "hall madhla light chalu kar"
+                    ]
+                },
+                {
+                    "name": "hallmarathioff",
+                    "slots": [],
+                    "samples": [
+                        "hall madhla light banda kar"
+                    ]
+                },
+                {
+                    "name": "hallhindion",
+                    "slots": [],
+                    "samples": [
+                        "hall ka light on karo",
+                        "hall ka light chalu karo"
+                    ]
+                },
+                {
+                    "name": "hallhindioff",
+                    "slots": [],
+                    "samples": [
+                        "hall ka light band karo",
+                        "hall ka light off karo"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
